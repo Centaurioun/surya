@@ -21,8 +21,8 @@ include = [
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.13,!=3.9.7"
-transformers = "^4.41.0"
-torch = "^2.3.0"
+transformers = "^4.53.0"
+torch = "^2.8.0"
 pydantic = "^2.5.3"
 pydantic-settings = "^2.1.0"
 python-dotenv = "^1.0.0"
@@ -41,7 +41,7 @@ snakeviz = "^2.2.0"
 datasets = "^2.16.1"
 rapidfuzz = "^3.6.1"
 arabic-reshaper = "^3.0.0"
-streamlit = "^1.31.0"
+streamlit = "^1.37.0"
 playwright = "^1.41.2"
 
 [tool.poetry.scripts]
